@@ -4,7 +4,7 @@
   <samp>
     📔 Hi! My Blod is here <a href="https://blog.csdn.net/Umbrella_Um?type=blog">Umbrella</a>.
     <br>It's wonderful to have friends visiting from far. Cheers! <br><br>
-    <img src="https://i0.hdslb.com/bfs/article/7c35e602bd6fd1fe9ba105c5fb5613b9ed9e735f.jpg@942w_1335h_progressive.webp" width="340px" height="440px" align="center">
+    <img src="https://i0.hdslb.com/bfs/article/7c35e602bd6fd1fe9ba105c5fb5613b9ed9e735f.jpg@942w_1335h_progressive.webp" width="260px" height="340px" align="center">
     <br><br>
     <hr>
   </samp>

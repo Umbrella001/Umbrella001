@@ -10,13 +10,13 @@
   </samp>
 </p>
 
-### Languages
+> ## Languages
 
 <table>
   <tr>
   <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="65" alt="HTML" />
-      <br>HTML
+      <br>HTML&nbsp; 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="65" alt="css" />
@@ -30,26 +30,26 @@
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="65" />
       </a>
-      <br>&nbsp;&nbsp;TypeScript&nbsp;&nbsp;
+      <br>&nbsp;TypeScript&nbsp;
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="65" />
-      <br>&nbsp;Sass&nbsp;
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+      <br>&nbsp;Sass&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <br>&nbsp;React&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Node
+      <br>&nbsp;Node&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="Git" />
+    <td align="center" width="80"> 
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="50" height="65" alt="Git" />
       <br>Webpack
     </td>
   </tr>
@@ -69,7 +69,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umbrella001&layout=compact" alt="Top Langs" />
 </span> -->
 
-### GitHub Stats
+> ## GitHub Stats
+
+<br>
 
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=Umbrella001&show_icons=true&theme=radical" alt="Umbrella001's GitHub Stats" />
@@ -80,9 +82,12 @@
 ![Umbrella](https://badges.strrl.dev/repos/Umbrella001?style=flat-square&logo=Grafana&color=0052CC&logoColor=FFA200&label=repos)
 ![Umbrella](https://badges.strrl.dev/commits/all/Umbrella001?style=flat-square&logo=ChakraUI&color=0052CC&logoColor=FFA200&label=commits)
 ![Umbrella](https://badges.strrl.dev/contributions/all/Umbrella001?style=flat-square&logo=PlayerFM&color=0052CC&logoColor=FFA200&label=contributions)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Umbrella001&left_color=gray&right_color=blue)
 
 <br>
 
-### Achievement
+> ## Achievement
+
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Umbrella001&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)

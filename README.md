@@ -82,8 +82,10 @@
 ![Umbrella](https://badges.strrl.dev/repos/Umbrella001?style=flat-square&logo=Grafana&color=0052CC&logoColor=FFA200&label=repos)
 ![Umbrella](https://badges.strrl.dev/commits/all/Umbrella001?style=flat-square&logo=ChakraUI&color=0052CC&logoColor=FFA200&label=commits)
 ![Umbrella](https://badges.strrl.dev/contributions/all/Umbrella001?style=flat-square&logo=PlayerFM&color=0052CC&logoColor=FFA200&label=contributions)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Umbrella001&left_color=gray&right_color=blue)
 
+<br>
+
+<div align="center"><img src="https://count.getloli.com/get/@Umbrella001?theme=rule666" alt="Umbrella001 visitors"></div>
 <br>
 
 > ## Achievement

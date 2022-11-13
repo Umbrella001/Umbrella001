@@ -85,7 +85,7 @@
 
 <br>
 
-<div align="center"><img src="https://count.getloli.com/get/@Umbrella001?theme=rule666" alt="Umbrella001 visitors"></div>
+<div align="center"><img src="https://count.getloli.com/get/@Umbrella001?theme=rule34" alt="Umbrella001 visitors"></div>
 <br>
 
 > ## Achievement
